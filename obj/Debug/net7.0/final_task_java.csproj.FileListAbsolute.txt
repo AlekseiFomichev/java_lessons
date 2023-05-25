@@ -1,0 +1,5 @@
+C:\Users\faase\OneDrive\Рабочий стол\учеба\final_task_java\obj\Debug\net7.0\final_task_java.csproj.AssemblyReference.cache
+C:\Users\faase\OneDrive\Рабочий стол\учеба\final_task_java\obj\Debug\net7.0\final_task_java.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faase\OneDrive\Рабочий стол\учеба\final_task_java\obj\Debug\net7.0\final_task_java.AssemblyInfoInputs.cache
+C:\Users\faase\OneDrive\Рабочий стол\учеба\final_task_java\obj\Debug\net7.0\final_task_java.AssemblyInfo.cs
+C:\Users\faase\OneDrive\Рабочий стол\учеба\final_task_java\obj\Debug\net7.0\final_task_java.csproj.CoreCompileInputs.cache
